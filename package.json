@@ -1,0 +1,23 @@
+{
+  "name": "wheelawesome",
+  "version": "1.0.0",
+  "description": "- redux\r - compose\r - react-redux\r - webpack\r - react-router\r - pina\r - koa\r - egg",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guaqiu5/wheelAwesome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guaqiu5/wheelAwesome/issues"
+  },
+  "homepage": "https://github.com/guaqiu5/wheelAwesome#readme"
+}

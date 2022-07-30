@@ -6,3 +6,4 @@
 - react-router
 - pina
 - koa
+- egg
